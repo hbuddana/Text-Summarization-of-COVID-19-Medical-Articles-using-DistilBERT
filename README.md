@@ -1,4 +1,4 @@
-# Text-Summarization-of-COVID-19-Medical-Articles-using-DistilBERT
+# Text-Summarization-of-COVID-19-Medical-Articles-using-DistilBERT 📄
 
 
 ## Project Proposal for CSCE 5290: Natural Language Processing
