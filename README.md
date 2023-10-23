@@ -16,7 +16,7 @@ COVID-19 is a novel virus that has impacted the world significantly. With an inc
 - Provide a time-saving tool for individuals seeking quick and effective solutions to their questions related to COVID-19.
 - Benefit developing countries or regions with limited resources by providing accurate answers and minimizing the spread of misinformation.
 
-## Features
+## Features ⚙️
 - Unsupervised system for comprehending scientific literature and generating precise responses from the CORD-19 corpus of scientific papers.
 
 ## Approach
